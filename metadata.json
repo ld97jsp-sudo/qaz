@@ -1,0 +1,7 @@
+{
+  "name": "Loop Live",
+  "description": "Premium IPTV client application featuring dynamic activation authentication, real-time developer tracking, and advanced media playback.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
